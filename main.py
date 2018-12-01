@@ -1,7 +1,7 @@
 #!/user/bin/python3.5
 
 def main(msg):
-    //no longer need comments
+    #no longer need comments
     print(msg)
 
 def secondary():
@@ -9,3 +9,4 @@ def secondary():
 
 
 main("Hello People!")
+secondary()

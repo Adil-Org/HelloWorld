@@ -1,10 +1,11 @@
 #!/user/bin/python3.5
 
 def main(msg):
-    //adding the second comment
-    //Print a message
-    //another control
+    //no longer need comments
     print(msg)
+
+def secondary():
+    print("new function")
 
 
 main("Hello People!")

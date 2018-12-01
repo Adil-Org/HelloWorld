@@ -3,6 +3,7 @@
 def main(msg):
     //adding the second comment
     //Print a message
+    //another control
     print(msg)
 
 
